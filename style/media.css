@@ -1,0 +1,221 @@
+@media   (max-width: 1140px) {
+    .container{
+        max-width:1024px;
+        
+    }
+    .box_btn{
+        margin: 0;
+    }
+    .box_btn_2{
+        margin: 0;
+    }
+    .box_btn_3{
+        margin: 0;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .title_wrapper h1{
+        text-align: center;
+    }
+    .img_column img{
+        margin-top: 50px;
+        width: 100%;
+    }
+    .title_wrapper{
+        align-items: center;
+    }
+    .before-line::before{
+        left: -45px;
+    }
+    .info_desc{
+        margin-left:28px ;
+    }
+    .box_title_2{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .box_svg p{
+        font-size: 13px;
+    }
+    .map_img{
+        width: 100%;
+    }
+    .user{
+        margin-left: 6px ;
+    }
+    .features{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .box_title{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .box_title_3{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+@media (max-width: 1024px){
+    .container{
+        max-width: 700;
+    }
+    .burger_menu{
+        display: block;
+    }
+    a{
+        display: none;
+
+    }
+    .info_desc {
+        margin-left: 134px;
+    }
+    .before-line::before {
+        content: none;
+    }
+    .before-line::after {
+        content: none;
+    }
+    .card_back{   
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    .card_back svg{
+        margin: 10px 0;
+    }
+    .footer_logo p{
+        font-size: 10px;
+    }
+    .span_10{
+        font-size: 10px;
+    }
+    .project_wrapper p{
+        font-size: 10px;
+        margin-top: 0;
+
+    }
+    .project_wrapper h2 {
+        font-size: 15px;
+    }
+    
+}
+@media (max-width: 700px){
+    .container{
+        max-width: 370px;
+    }
+    .box_btn_2 h2{
+        font-size: 20px;
+        
+    }
+    .box_btn_2 button{
+        padding: 10px 32px;
+        font-size: 12px;
+
+    }
+    .box_p{
+        margin-left: 30px;
+    }
+    .box_img h2{
+        font-size: 14px;
+    }
+    .box_btn h2{
+        font-size: 20px;
+        
+    }
+    .box_svg p{
+        font-size: 10px;
+    }
+    .box_btn button{
+        padding: 10px 32px;
+        font-size: 12px;
+
+    }
+    .subscribe_text h2 {
+        text-align: center;
+        font-size: 20px;
+    }
+    .subscribe_text p {
+        text-align: center;
+        font-size: 10px;
+        margin-top: 5px;
+    }
+    .subscribe_box button{
+        padding: 6px 32px;
+        font-size: 10px;
+    }
+    .arrow_left{
+        padding: 10px 10px;
+    }
+    .arrow_right{
+        padding: 10px 10px;
+    }
+    .box_btn_3 h2{
+        font-size: 20px;
+        
+    }
+    .box_btn_3 button{
+        padding: 10px 32px;
+        font-size: 12px;
+
+    }
+    .box_title{
+        display: block;
+        
+    }
+    .box_title_2{
+        display: block;
+        
+    }
+    .box_title_3{
+        display: block;
+        
+    }
+    .box_svg{
+        gap: 14px;
+    }
+    .subscribe_box{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .footer_title{
+        display: flex;
+        flex-direction: column;
+    }
+    .box_footer{
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    .btn_2{
+        font-size: 10px;
+        padding: 4px 12px;
+    }
+    .btn_1{
+        font-size: 10px;
+        
+    }
+    .header_btn button {
+        margin: 0;
+    }
+    .card_back{
+        
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    .info_desc {
+        margin-left: -58px;
+    }
+}
