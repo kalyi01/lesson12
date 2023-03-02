@@ -700,10 +700,14 @@ nav a {
     color: #AFB5C0;
 }
 
+
 .footer_title {
     display: flex;
     justify-content: space-between;
 
+}
+.project_wrapper{
+margin: 0 15px;
 }
 
 .project_wrapper h2 {
@@ -727,4 +731,8 @@ nav a {
 .about_us{
     margin-top: 20px;
 
+}
+.box_footer{
+    display: flex;
+    justify-content: space-between;
 }
